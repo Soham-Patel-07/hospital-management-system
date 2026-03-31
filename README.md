@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # hospital-management-system
 =======
 # Cell Oasis - Hospital Management System
@@ -244,3 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <sub>M.Sc. Computer Science - University of East London - December 2024</sub>
 </p>
 >>>>>>> 434d2cf (Initial commit)
+=======
+read
+>>>>>>> 21f16fd3b27f60a50a56ac9dc9849a3cca72e435
