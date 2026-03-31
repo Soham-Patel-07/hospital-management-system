@@ -1,0 +1,83 @@
+@charset "utf-8";
+/*
+Template Name: Corporation
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+File: Tables CSS
+*/
+
+/* General Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    color: #333333;
+    text-align: left;
+}
+
+/* Table Header */
+table thead th {
+    color: #FFFFFF;
+    background-color: #4CAF50;
+    border: 1px solid #E0E0E0;
+    text-align: center;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    vertical-align: middle;
+}
+
+/* Table Body */
+table tbody td {
+    vertical-align: top;
+    padding: 10px 15px;
+    border-left: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    color: #666666;
+    line-height: 1.6;
+}
+
+/* Alternating Row Colors */
+table tbody tr:nth-child(even) {
+    background-color: #F9F9F9;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: #FFFFFF;
+}
+
+/* Row Hover Effect */
+table tbody tr:hover {
+    background-color: #F1F8E9;
+    cursor: pointer;
+}
+
+/* Highlight Borders on Hover */
+table tbody tr:hover td {
+    border-color: #AED581;
+}
+
+/* Enhanced Borders */
+table, table td, table th {
+    border: 1px solid #E0E0E0;
+    border-collapse: collapse;
+}
+
+/* Mobile Friendly Responsive Styles */
+@media screen and (max-width: 768px) {
+    table {
+        font-size: 12px;
+    }
+    table thead th, table tbody td {
+        padding: 8px 10px;
+    }
+}
