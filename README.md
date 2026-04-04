@@ -267,12 +267,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">
-  Made with ❤️ by Team Cell Oasis
-</p>
+**Note:** This is an academic project built during my **M.Sc. in Computer Science** at the **University of East London**, completed in **December 2024.**
 
-<p align="center">
-  <sub>M.Sc. Computer Science - University of East London - December 2024</sub>
-</p>
-
-**Note:** This is an academic project built during a **January 2023 to April 2023** in an internship at **Advait Solutions** as part of **BE Computer Engineering** curriculum at **Bhagwan Arihant Institute of Technology - Surat.**
