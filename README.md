@@ -1,8 +1,19 @@
 
-# Cell Oasis - Hospital Management System (Hospital-management-system)
+# Cell Oasis - Hospital Management System
 
- A comprehensive Hospital Management System built with PHP and MySQL for M.Sc. Computer Science project at University of East London (December 2024)
+ A comprehensive Hospital Management System built with PHP and MySQL. This system allows efficient management of hospital operations, including patient records, appointments, billing, and more, developed as part of my M.Sc. in Computer Science project at the University of East London (December 2024).
 
+
+
+## 🎯 About the Project
+
+Cell Oasis is a full-featured Hospital Management System that provides separate portals for three user roles:
+
+- **Patients** can book appointments, view prescriptions, and manage their profiles
+- **Doctors** can manage appointments, create prescriptions, and maintain treatment records
+- **Administrators** have full control over the entire system
+
+This project was developed as a part of M.Sc. Computer Science curriculum in December 2024.
 
 
 ## 📋 Table of Contents
@@ -19,18 +30,6 @@
 - [License](#license)
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
-
-
-
-## 🎯 About the Project
-
-Cell Oasis is a full-featured Hospital Management System that provides separate portals for three user roles:
-
-- **Patients** can book appointments, view prescriptions, and manage their profiles
-- **Doctors** can manage appointments, create prescriptions, and maintain treatment records
-- **Administrators** have full control over the entire system
-
-This project was developed as a part of M.Sc. Computer Science curriculum in December 2024.
 
 
 
