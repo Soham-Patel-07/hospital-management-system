@@ -1,7 +1,5 @@
 
-# Hospital-management-system
-
-# Cell Oasis - Hospital Management System
+# Cell Oasis - Hospital Management System (Hospital-management-system)
 
  A comprehensive Hospital Management System built with PHP and MySQL for M.Sc. Computer Science project at University of East London (December 2024)
 
