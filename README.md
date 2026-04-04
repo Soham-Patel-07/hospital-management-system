@@ -129,40 +129,82 @@ This project was developed as a part of M.Sc. Computer Science curriculum in Dec
 
 ```
 hospital/
-├── admin/                  # Admin panel
-│   ├── adminlogin.php
-│   ├── adminaccount.php
-│   ├── doctor.php
-│   ├── patient.php
-│   ├── appointment.php
-│   ├── department.php
-│   ├── medicine.php
-│   ├── treatment.php
-│   └── view*.php          # View pages
+├── admin/                       # Admin panel
+│   ├── adminlogin.php           # Admin login
+│   ├── adminaccount.php         # Admin account management
+│   ├── adminprofile.php         # Admin profile
+│   ├── adminchangepassword.php  # Change password
+│   ├── appointment.php          # Appointment management
+│   ├── appointmentapproval.php  # Approve appointments
+│   ├── department.php           # Department management
+│   ├── doctor.php               # Doctor management
+│   ├── medicine.php             # Medicine inventory
+│   ├── treatment.php            # Treatment records
+│   ├── patient.php              # Patient management
+│   ├── addpatient.php           # Add new patient
+│   ├── doctortimings.php        # Doctor timings
+│   ├── view*.php                # View pages (patients, doctors, appointments, etc.)
+│   ├── menu.php                 # Menu navigation
+│   ├── headers.php              # Header files
+│   ├── footers.php              # Footer files
+│   └── dbconnection.php         # Database connection
 │
-├── doctor/                 # Doctor panel
-│   ├── doctorlogin.php
-│   ├── doctoraccount.php
-│   ├── doc_reg.php
-│   ├── prescription.php
-│   ├── viewappointment.php
-│   └── treatment*.php
+├── doctor/                      # Doctor panel
+│   ├── doctorlogin.php          # Doctor login
+│   ├── doc_reg.php              # Doctor registration
+│   ├── doctoraccount.php        # Doctor account
+│   ├── doctorprofile.php        # Doctor profile
+│   ├── doctorchangepassword.php # Change password
+│   ├── appointmentapproval.php  # Approve/reject appointments
+│   ├── prescription.php         # Create prescriptions
+│   ├── prescriptionorder.php   # Prescription orders
+│   ├── treatmentdetail.php      # Treatment details
+│   ├── doctortimings.php        # Doctor timings
+│   ├── viewappointment.php      # View appointments
+│   ├── viewpatient.php          # View patients
+│   ├── viewtreatment.php        # View treatments
+│   ├── viewbilling.php          # View billing
+│   ├── menu.php                 # Menu navigation
+│   ├── header.php               # Header file
+│   ├── footer.php               # Footer file
+│   └── dbconnection.php         # Database connection
 │
-├── patient/                # Patient panel
-│   ├── patientlogin.php
-│   ├── patientaccount.php
-│   ├── patientappointment.php
-│   ├── prescription*.php
-│   └── patient.php
+├── patient/                     # Patient panel
+│   ├── patientlogin.php         # Patient login
+│   ├── patientforgotpassword.php # Password recovery
+│   ├── patientaccount.php       # Patient account
+│   ├── patientprofile.php       # Patient profile
+│   ├── patientchangepassword.php # Change password
+│   ├── patientappointment.php  # Book appointments
+│   ├── prescription.php        # View prescriptions
+│   ├── prescriptionorder.php    # Prescription orders
+│   ├── treatment.php            # Treatment records
+│   ├── feedback.php             # Submit feedback
+│   ├── viewappointment.php      # View appointments
+│   ├── viewtreatmentrecord.php # View treatment records
+│   ├── viewbilling.php          # View billing
+│   ├── departmentDoctor.php     # View doctors by department
+│   ├── menu.php                 # Menu navigation
+│   ├── header.php               # Header file
+│   ├── footer.php               # Footer file
+│   └── dbconnection.php         # Database connection
 │
-├── assets/                # CSS, images, JS
-├── layout/                # Layout styles
-├── db/                    # Database files
-├── phpmail/               # Email functionality
-├── index.php              # Home page
-├── aboutus.php
-├── contactus.php
-└── dbconnection.php       # Database connection
+├── assets/                      # CSS, images, JS
+├── layout/                      # Layout styles
+├── db/                          # Database files
+├── docs/                        # Documentation
+├── js/                          # JavaScript files
+├── phpmail/                     # Email functionality
+├── Screenshot/                  # Project screenshots
+├── index.php                    # Home page
+├── aboutus.php                  # About Us page
+├── contactus.php                # Contact Us page
+├── departmentDoctor.php         # Department-Doctor page
+├── header.php                   # Main header
+├── patient.php                  # Patient landing
+├── patientlogin.php             # Patient login redirect
+├── patientappointment.php       # Patient appointment redirect
+└── dbconnection.php             # Database connection
 ```
 
 
