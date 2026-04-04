@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# hospital-management-system
-=======
+
+# Hospital-management-system
+
 # Cell Oasis - Hospital Management System
 
 <p align="center">
@@ -13,7 +12,7 @@
 
 > A comprehensive Hospital Management System built with PHP and MySQL for M.Sc. Computer Science project at University of East London (December 2024)
 
----
+
 
 ## 📋 Table of Contents
 
@@ -30,7 +29,7 @@
 - [Contributors](#contributors)
 - [Acknowledgments](#acknowledgments)
 
----
+
 
 ## 🎯 About the Project
 
@@ -42,7 +41,7 @@ Cell Oasis is a full-featured Hospital Management System that provides separate 
 
 This project was developed as a part of M.Sc. Computer Science curriculum in December 2024.
 
----
+
 
 ## ✨ Features
 
@@ -81,7 +80,7 @@ This project was developed as a part of M.Sc. Computer Science curriculum in Dec
 - Department information
 - Doctor profiles
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -93,7 +92,7 @@ This project was developed as a part of M.Sc. Computer Science curriculum in Dec
 | **Server** | Apache (XAMPP/WAMP) |
 | **Email** | PHPMailer |
 
----
+
 
 ## 📦 Installation
 
@@ -122,7 +121,7 @@ This project was developed as a part of M.Sc. Computer Science curriculum in Dec
    - Start Apache and MySQL in XAMPP
    - Open browser and navigate to `http://localhost/hospital/`
 
----
+
 
 ## 🚀 Usage
 
@@ -134,7 +133,7 @@ This project was developed as a part of M.Sc. Computer Science curriculum in Dec
 | **Doctor** | `/doctor/doctorlogin.php` | (Register new) | (Register new) |
 | **Patient** | `/patient/patientlogin.php` | (Register new) | (Register new) |
 
----
+
 
 ## 📂 Project Structure
 
@@ -176,7 +175,7 @@ hospital/
 └── dbconnection.php       # Database connection
 ```
 
----
+
 
 ## 🗃 Database
 
@@ -190,17 +189,17 @@ hospital/
 - `medicine` - Medicine inventory
 - `treatment` - Treatment records
 
----
+
 
 ## 📸 Screenshots
 
 > Add your project screenshots here
 
-| Home Page | Admin Dashboard | Patient Login |
-|-----------|----------------|---------------|
-| ![Home](assets/images/screenshot1.png) | ![Admin](assets/images/screenshot2.png) | ![Login](assets/images/screenshot3.png) |
+| Home Page | Admin Dashboard | Patient Login | Doctor Login | 
+|-----------|----------------|---------------|---------------|
+| ![Home](assets/images/screenshot1.png) | ![Admin](assets/images/screenshot2.png) | ![Login](assets/images/screenshot3.png) | ![Login](assets/images/screenshot4.png) |
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -214,13 +213,13 @@ hospital/
 - [ ] Advanced billing system
 - [ ] AI-based symptom checker
 
----
+
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## 👥 Contributors
 
@@ -228,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |--------|
 | Group Project - M.Sc. Computer Science, University of East London |
 
----
+
 
 ## 🙏 Acknowledgments
 
@@ -244,7 +243,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <sub>M.Sc. Computer Science - University of East London - December 2024</sub>
 </p>
->>>>>>> 434d2cf (Initial commit)
-=======
-read
->>>>>>> 21f16fd3b27f60a50a56ac9dc9849a3cca72e435
+
