@@ -3,14 +3,7 @@
 
 # Cell Oasis - Hospital Management System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-</p>
-
-> A comprehensive Hospital Management System built with PHP and MySQL for M.Sc. Computer Science project at University of East London (December 2024)
+ A comprehensive Hospital Management System built with PHP and MySQL for M.Sc. Computer Science project at University of East London (December 2024)
 
 
 
