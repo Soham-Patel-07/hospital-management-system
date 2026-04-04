@@ -205,6 +205,7 @@ hospital/
 ├── patientlogin.php             # Patient login redirect
 ├── patientappointment.php       # Patient appointment redirect
 ├── dbconnection.php             # Database connection
+├── README.md                    # Project documentation
 └── LICENSE                      # MIT License
 ```
 
