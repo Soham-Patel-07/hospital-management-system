@@ -185,7 +185,7 @@ hospital/
 
 | Home Page | Admin Panel | Patient Portal | Doctor Portal |
 |-----------|-------------|---------------|---------------|
-| ![Home](Screenshot/1%20Home%20Page%20.png) | ![Admin](Screenshot/2%20Admin%20Panel%20after%20login%20.png) | ![Patient](Screenshot/3%20Patient%20Profile%20after%20login%20.png) | ![Doctor](Screenshot/4%20Doctor%20Profile%20%20after%20login%20.png) |
+| ![Home](Screenshot/1-Home-Page.png) | ![Admin](Screenshot/2-Admin-Panel-after-login.png) | ![Patient](Screenshot/3-Patient-Profile-after-login.png) | ![Doctor](Screenshot/4-Doctor-Profile-after-login.png) |
 
 
 
