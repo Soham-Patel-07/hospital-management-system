@@ -268,5 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** This is an academic project built during my **M.Sc. in Computer Science** at the **University of East London**, completed in **December 2024.**
+
+**Note:** This project was developed as a group assignment for the **Advanced Software Engineering** module during my **M.Sc. in Computer Science** at the **University of East London,** completed in **December 2024.**
 
