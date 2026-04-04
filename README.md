@@ -183,11 +183,9 @@ hospital/
 
 ## 📸 Screenshots
 
-> Add your project screenshots here
-
-| Home Page | Admin Dashboard | Patient Login | Doctor Login | 
-|-----------|----------------|---------------|---------------|
-| ![Home](assets/images/screenshot1.png) | ![Admin](assets/images/screenshot2.png) | ![Login](assets/images/screenshot3.png) | ![Login](assets/images/screenshot4.png) |
+| Home Page | Admin Panel | Patient Portal | Doctor Portal |
+|-----------|-------------|---------------|---------------|
+| ![Home](Screenshot/1%20Home%20Page%20.png) | ![Admin](Screenshot/2%20Admin%20Panel%20after%20login%20.png) | ![Patient](Screenshot/3%20Patient%20Profile%20after%20login%20.png) | ![Doctor](Screenshot/4%20Doctor%20Profile%20%20after%20login%20.png) |
 
 
 
@@ -234,3 +232,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <sub>M.Sc. Computer Science - University of East London - December 2024</sub>
 </p>
 
+**Note:** This is an academic project built during a **January 2023 to April 2023** in an internship at **Advait Solutions** as part of **BE Computer Engineering** curriculum at **Bhagwan Arihant Institute of Technology - Surat.**
