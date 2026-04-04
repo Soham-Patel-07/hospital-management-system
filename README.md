@@ -204,7 +204,8 @@ hospital/
 ├── patient.php                  # Patient landing
 ├── patientlogin.php             # Patient login redirect
 ├── patientappointment.php       # Patient appointment redirect
-└── dbconnection.php             # Database connection
+├── dbconnection.php             # Database connection
+└── LICENSE                      # MIT License
 ```
 
 
